@@ -1,7 +1,0 @@
-.env
-.venv
-env
-venv
-*.db
-*.env
-*.txt
